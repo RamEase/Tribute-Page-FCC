@@ -4,13 +4,14 @@ title:Christopher C. Kraft Jr.
 
 TEXT:
 intro:The establisher of NASA's Mission Control
-
+ **"A driving force in the U.S. human space-flight program from its beginnings to the Space Shuttle era, a man whose accomplishments have become legendary."
+ 
  **"some of my life's direction was settled from the start."Kraft, with the choice of his name.
  
 timeline:
 *Born in Phoebus, Virginia, on February 28, 1924
 
-*In 1942, Kraft began his studies at Virginia Polytechnic Institute and State University (Virginia Tech) 
+*1942 - Kraft began studies at Virginia Polytechnic Institute and State University 
 
 *graduated in December 1944 with a Bachelor in Aeronautical Engineering.
 
@@ -49,11 +50,11 @@ timeline:
 *Died	July 22, 2019 (aged 95)
 Houston, Texas, U.S.
 
- **"A driving force in the U.S. human space-flight program from its beginnings to the Space Shuttle era, a man whose accomplishments have become legendary."
+
  
 PICTURES:
 https://headtopics.com/images/2019/7/23/nbcnews/chris-kraft-1st-flight-director-for-nasa-dies-at-95-1153543970758287360.webp
-(pointing finger)(Christopher Kraft, flight director during Project Mercury, working at his console inside the Flight Control area at Mercury Mission Control in Houston, in an undated photo. (NASA via AP, File))
+(pointing finger)(Christopher Kraft, flight director during Project Mercury, working at his console inside the Flight Control area at Mercury Mission Control in Houston,(NASA via AP, File))
 https://cdn.images.express.co.uk/img/dynamic/78/590x/secondary/Christopher-Kraft-1972624.webp?r=1563955621222
 (smoking cigar)
 https://s.hdnux.com/photos/01/04/20/65/17894727/33/gallery_xlarge.jpg
