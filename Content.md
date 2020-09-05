@@ -15,19 +15,19 @@ timeline:
 
 *graduated in December 1944 with a Bachelor in Aeronautical Engineering.
 
-* joined NACA in 1945.
+* 1945 - joined NACA.
 
-*married, Betty Anne Turnbull, in 1950. They have a son and a daughter, Gordon and Kristi-Anne.
+*1950 - married Betty Anne Turnbull.
 
 *In 1956, diagnosed with an ulcer.
 
-*July 29, 1958, establishment of NASA. Langley Research Center became a part of NASA, as did Langley employees such as Kraft.
+*1958 - establishment of NASA. Langley Research Center became a part of NASA, as did Langley employees such as Kraft. 
 
 *In November 1958, the NASA Space Task Group was born, and Kraft quickly accepted an invitation by Gilruth to become one of its 35 members.
 
 **As Chuck Mathews(Head of the division of Apollo) later recalled, Kraft came to him one day saying, "There needs to be someone in charge of the flights while they're actually going on, and I want to be that person.In this informal way, the position of flight director was born."
 
-*moved in Houston, Texas in 1962 along with other members of the Space Task Group.
+*1962 - moved in Houston, Texas in along with other members of the Space Task Group.
 
 *1963, Recieved John J. Montgomery Award 
 *1965, recieved NASA Outstanding Leadership Medal; four NASA Distinguished Service Medals and the Distinguished Alumnus Citation from Virginia Tech.
