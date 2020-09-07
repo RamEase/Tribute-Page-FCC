@@ -98,10 +98,6 @@ li{
     box-shadow: 10px 15px 20px rgba(0,0,0,0.19), 5px 5px 6px rgba(0,0,0,0.23);
 }
 
-footer{
-  
-}
-
 #tribute-link
 {
   display:block;
@@ -116,3 +112,21 @@ footer{
   margin:1rem;
 }
 
+@media(max-width:500px)
+{
+  #html{
+    min-width:100%;
+    font-size:5px;
+  }
+  #main{
+    margin:auto;
+  }
+  #title{
+   width:auto;
+   font-size:2rem;
+  }
+  .quote{
+    width:auto;
+    margin:auto;
+  }
+}
