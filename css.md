@@ -112,13 +112,21 @@ li{
   margin:1rem;
 }
 
-@media(max-width:480px)
+@media(max-width:500px)
 {
   #html{
     min-width:100%;
+    font-size:5px;
   }
   #main{
-    margin:0;
+    margin:auto;
   }
-  
+  #title{
+   width:auto;
+   font-size:2rem;
+  }
+  .quote{
+    width:auto;
+    margin:auto;
+  }
 }
